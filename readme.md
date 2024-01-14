@@ -1,0 +1,1 @@
+The goal is to comprehend the relationships between variables, analyze, and identify the best predictive model for determining the status (Alive or Dead) of new patients. Predictive models, such as logistic regression, CART, and neural networks, were employed. The CART model emerged as the winner, achieving an accuracy of 86.02% and a specificity of 96.22%.
